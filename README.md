@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ryan 
 - 😄 Pronouns: he/him/his
 
-### I'm a Machine Learning Engineer at Plainsight and a Master of Comp. Sci. student at Arizona State University
+### I'm an ML Engineer at Plainsight and a Master of Comp. Sci. student at Arizona State University
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rmsmith251.rmsmith251)
 [![Github](https://img.shields.io/github/followers/rmsmith251?label=Follow&style=social)](https://github.com/rmsmith251)
