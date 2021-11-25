@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Ryan - 😄 Pronouns: he/him/his
+### Hi there 👋 I'm Ryan 
+- 😄 Pronouns: he/him/his
 
 ### I'm a Machine Learning Engineer at Plainsight and an MS Computer Science student at Arizona State University
 
