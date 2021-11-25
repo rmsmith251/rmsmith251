@@ -7,4 +7,5 @@
 [![Github](https://img.shields.io/github/followers/rmsmith251?label=Follow&style=social)](https://github.com/rmsmith251)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmsmith251&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmsmith251&theme=tokyonight)](https://git.io/streak-stats)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmsmith251&show_icons=true&theme=tokyonight) -->
