@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rmsmith251&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmsmith251&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmsmith251&count_private=true&show_icons=true&theme=tokyonight&hide=vba" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=rmsmith251&theme=tokyonight">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rmsmith251&theme=tokyonight&count_private=true&show_icons=true&theme=tokyonight" />
