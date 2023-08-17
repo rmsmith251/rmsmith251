@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Ryan 
 - 😄 Pronouns: he/him/his
+- 📝 I occasionally write blog posts about Computer Vision at [Substack](https://ryanmsmith251.substack.com/)
 
 ### ML Engineer at Plainsight
 
